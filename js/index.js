@@ -26,6 +26,7 @@ const dic = {
   "md5_tree.py": "Make MD5 tree of directory",
   "nslookup.py": "Get ip from domain name using nslookup",
   "permission_check.py": "Check file permission",
+  "regex_test.py": "regex match test",
   "request.py": "Example of http request",
   "rock_scissors_paper.py": "Simple rock, scissors, paper game",
   "run_shell_cmd.py": "Run shell command",
@@ -36,6 +37,7 @@ const dic = {
   "unique_chars.py": "Check if a string contains all unique chars",
   "wget_download.py": "file download using wget",
   "windows_process_check.py": "Process exists check in windows",
+  "windows_process_kill.py": "Process kill in windows",
   "zip_example.py": "Create/Extract zip file",
 };
 
